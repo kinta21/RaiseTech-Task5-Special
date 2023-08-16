@@ -10,6 +10,7 @@ URLとは「Uniform Resource Locator」の略称で、インターネット上�
   例：基本のURLにクエリ文字列を追加すると「https:// ○△×□.jp/?●=▲×■&○=△×□」となる。　<br>URLの「?●=▲×■&○=△×□」の部分が、クエリ文字列。
 </p> 
 
+
 ## ＜パスパラメーターとは＞
 URIでドメインの後、「?」の前に来るものがパスパラメーター。パスパラメータは、パス(URL)の一部分をパラメーター化して関数内部で利用することを可能にする仕組みである。
 
@@ -47,7 +48,7 @@ HTTPステータスコードとは、HTTPレスポンスに含まれるWebサー
 | 　404 　| リソース・ページが存在しない |
 | 　500 　| サーバー内部エラー |
 
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[参照]　（https://digiful.irep.co.jp/blog/76975541525）
+[参照]　(https://digiful.irep.co.jp/blog/76975541525)
 
 ## ＜HTTPリクエストメッセージの構成＞
 WebブラウザからWebサーバへ送られるメッセージを「HTTPリクエストメッセージ」と呼ぶ。
@@ -67,7 +68,10 @@ HTTPレスポンスメッセージは「ステータスライン」「HTTPヘッ
   
 
      ![9aab8bd585668ed528ad5a6d9e581b46](https://github.com/kinta21/RaiseTech-Task5-Special/assets/141032732/1ea9d4dc-594f-4229-91eb-7f2a707670d9)
- [参照] (https://shukapin.com/infographicIT/http)
+　　　　　　　　　　　　　　　　　　　　　　　　　　　
+
+[参照] (https://shukapin.com/infographicIT/http)
+
 
 ## ＜JSONとは＞
 JSONは「JavaScript Object Notation」の略称。JavaScriptはプログラミング言語の1つで、Object Notationは人間が容易に読み書きしながらデータを簡単に扱えるようにフォーマットとして構造化した記述方法である。APIサーバーにアクセスし何かしらの情報が返ってくるとき、JSON形式で返されるのが一般的。 JavaScriptでAjax通信でサーバーへGET/POSTするときにJSON形式を使うと思うが、他のプログラミング言語でアクセスする際にも基本的にはJSONを使用する。
