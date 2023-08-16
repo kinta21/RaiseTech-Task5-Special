@@ -1,7 +1,7 @@
 # 第5回特別課題 　Web基礎知識
 ## ＜URLとは＞
 URLとは「Uniform Resource Locator」の略称で、インターネット上に存在する情報資源（文書や画像など）の場所を指し示す技術方式である。通常「プロトコル://ドメイン名/ディレクトリパス名/ファイル名」という形式で構成されるホームページページの住所（アドレス）のこと。
-　　　　　　　　　　　　　　　　　　　　　　　　![images](https://github.com/kinta21/RaiseTech-Task5-Special/assets/141032732/b39c5e31-9bf0-4585-a4d0-901088ebe61e)
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　![images](https://github.com/kinta21/RaiseTech-Task5-Special/assets/141032732/b39c5e31-9bf0-4585-a4d0-901088ebe61e)
 
 ## ＜クエリ文字列とは＞
 クエリ文字列とは、サーバーに情報を送るためにURLの末尾につけ足す文字列（変数）のこと。<br>「?」をURLの末尾につけ、その次に「パラメーター＝値」をつけ、複数のパラメーターをつけたい場合は「&」を使用する.
