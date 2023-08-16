@@ -49,7 +49,7 @@ HTTPステータスコードとは、HTTPレスポンスに含まれるWebサー
 | 　404 　| リソース・ページが存在しない |
 | 　500 　| サーバー内部エラー |
 
-[参照]　(https://digiful.irep.co.jp/blog/76975541525)
+　[参照リンク](https://digiful.irep.co.jp/blog/76975541525)　
 
 ## ＜HTTPリクエストメッセージの構成＞
 WebブラウザからWebサーバへ送られるメッセージを「HTTPリクエストメッセージ」と呼ぶ。
@@ -69,9 +69,10 @@ HTTPレスポンスメッセージは「ステータスライン」「HTTPヘッ
   
 
      ![9aab8bd585668ed528ad5a6d9e581b46](https://github.com/kinta21/RaiseTech-Task5-Special/assets/141032732/1ea9d4dc-594f-4229-91eb-7f2a707670d9)
-　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　　　　　　　　　　　　　　　　　　　
 
-[参照] (https://shukapin.com/infographicIT/http)
+
+[参照リンク](https://shukapin.com/infographicIT/http)
 
 
 ## ＜JSONとは＞
